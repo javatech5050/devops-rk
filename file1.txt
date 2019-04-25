@@ -1,1 +1,2 @@
 File 1 content - Initial
+Inserted new content from future_branch1
